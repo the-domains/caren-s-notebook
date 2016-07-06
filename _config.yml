@@ -1,7 +1,7 @@
 name: Caren's Notebook
 favicon: null
-layout_spectrum: 0.6364317063707858
-typography_spectrum: 0.9763289759866893
+layout_spectrum: 1
+typography_spectrum: 0.07246
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.19509944296441972
-  lightness: 0.9013629893306643
-  saturation: 0.4289504187181592
-  rhythmicContrast: 0.03292230539955199
+  brandStrength: 0.0625
+  lightness: 0.9375
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
